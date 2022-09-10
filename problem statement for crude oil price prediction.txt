@@ -1,0 +1,19 @@
+Crude oil is the world’s leading fuel, and its prices have a big impact on the 
+global environment, economy as well as oil exploration and exploitation activities. 
+
+Oil price forecasts are very useful to industries, governments and individuals. Although many 
+methods have been developed for predicting oil prices, it remains one of the most 
+challenging forecasting problems due to the high volatility of oil prices. 
+
+In this paper, we propose a novel approach for crude oil price prediction based on a new machine learning 
+paradigm called stream learning. 
+
+The main advantage of our stream learning approach is that the prediction model can capture the changing pattern
+of oil prices since the model is continuously updated whenever new oil price data are available, with very small constant overhead. 
+
+To evaluate the forecasting ability of our streaming learning model, we compare it with three other popular oil price prediction models. 
+
+The experiment results show that our stream learning model achieves the highest accuracy in terms of both mean 
+squared prediction error and directional accuracy ratio over a variety of forecast time horizons.
+
+ 
